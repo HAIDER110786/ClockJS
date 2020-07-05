@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+    height: 100vh;
+    margin: 0;
+}
+
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.Clock{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hand{
+    width: 40px;
+    height: 10px;
+    background-color: black;
+}
+
+.hour-hand{
+    height: 10px;
+}
+
+.minute-hand{
+    height: 6px;
+}
+
+.second-hand{
+    height: 2px;
+}
