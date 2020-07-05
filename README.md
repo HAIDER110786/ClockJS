@@ -1,4 +1,4 @@
 # ClockJS
 
 
-This is a simple clock made using JS. This cloc updates the time dynamically.
+This is a simple clock made using JS. This clock updates the time dynamically.
